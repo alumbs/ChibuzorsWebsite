@@ -1,0 +1,18 @@
+.mainContent {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section-title {
+    color: #F44365;
+}
+
+.project-title {
+    color: #F44212;
+}
+/*Contacts section*/
+
+.contact-info {
+    width: 100%;
+}
